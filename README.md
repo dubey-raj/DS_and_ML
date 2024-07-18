@@ -26,3 +26,23 @@ Deployment of model that is created in <a href="./LLM/Raj_QnA_Chatbot.ipynb"> no
 <li>Secure endpoints with authentication mechanism e.g. jwt token</li>
 <li>Develop UI for chat agent using any front end framework e.g. React, Angular or Streamlit.</li>
 </ol>
+
+# Screenshots
+Screenshots are available below:
+## 1. Install required packages
+![Install required packages](/Screenshots/1-Install_Dependencies.png)
+
+## 2. Loading_TinyLlamma_Model
+![Install required packages](/Screenshots/2-Loading_TinyLlamma_Model.png)
+
+## 3. Load Pdf Document
+![Install required packages](/Screenshots/3-Load_Pdf_Document.png)
+
+## 4. Generate embeddings and perform similarity search with pinecone vector DB
+![Install required packages](/Screenshots/4-Generate_Embedding_and_Perform_Similarity_Search.png)
+
+## 5. Refine search with LLM
+![Install required packages](/Screenshots/5-Refine_Search_With_LLM.png)
+
+## 6. Final answer by LLM
+![Install required packages](/Screenshots/6-Final_Answer_By_LLM.png)
